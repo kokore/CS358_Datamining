@@ -1,0 +1,3 @@
+[submodule "CS358_Dataminig"]
+	path = CS358_Dataminig
+	url = https://github.com/kokore/CS358_Datamining.git
